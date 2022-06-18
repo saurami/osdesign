@@ -1,2 +1,3 @@
-# osdesign
-Operating Systems Design
+# Operating Systems Design
+
+TODO: Implement coursework in Rust
